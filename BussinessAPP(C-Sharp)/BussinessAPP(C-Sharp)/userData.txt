@@ -1,0 +1,2 @@
+mughal,12345678,0,0,0,0,0,False,False,False
+hassan,12345678,0,0,,,,False,False,False

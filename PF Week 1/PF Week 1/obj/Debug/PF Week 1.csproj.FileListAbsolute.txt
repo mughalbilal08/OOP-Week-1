@@ -1,0 +1,7 @@
+P:\PF Week 1\PF Week 1\bin\Debug\PF Week 1.exe.config
+P:\PF Week 1\PF Week 1\bin\Debug\PF Week 1.exe
+P:\PF Week 1\PF Week 1\bin\Debug\PF Week 1.pdb
+P:\PF Week 1\PF Week 1\obj\Debug\PF Week 1.csproj.AssemblyReference.cache
+P:\PF Week 1\PF Week 1\obj\Debug\PF Week 1.csproj.CoreCompileInputs.cache
+P:\PF Week 1\PF Week 1\obj\Debug\PF Week 1.exe
+P:\PF Week 1\PF Week 1\obj\Debug\PF Week 1.pdb
